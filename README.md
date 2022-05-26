@@ -2,9 +2,9 @@
 An assigned project as part of the odin project, but with real and good recipes.
 
 This is a project I plan on developing step by step as I follow the odin project.
-I am currently at step 0 and this is how I plan to go about this project:
+I am currently at step 1 and this is how I plan to go about this project:
 
-    0: Set up the repo and layout the plan
+    0: Set up the repo and layout the plan >done<
     1: Seting up the structure of index.html and the recipe pages
     2: Filling the structure with usfull recipes at least 3 for the begining
     3: Recreating those recipes for proper pictures
